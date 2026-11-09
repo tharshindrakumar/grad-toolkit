@@ -1,0 +1,8 @@
+# Your real applications, contacts and marks. Never commit these.
+data/
+
+__pycache__/
+*.egg-info/
+.venv/
+.pytest_cache/
+.DS_Store
